@@ -1,0 +1,16 @@
+PODS:
+  - SwiftNetwork (0.1.0)
+
+DEPENDENCIES:
+  - SwiftNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftNetwork: fd5108ebcafb0a2d7824a15efab5e34d85755295
+
+PODFILE CHECKSUM: 410484658e3bc57902018df7e35e2f245d7aea8a
+
+COCOAPODS: 1.1.1
